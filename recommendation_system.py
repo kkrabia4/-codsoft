@@ -1,4 +1,4 @@
-# Hardcoded dataset of movies and their genres
+
 movies = {
     'The Shawshank Redemption': ['Drama'],
     'The Godfather': ['Drama', 'Crime'],
